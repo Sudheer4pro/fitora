@@ -1,0 +1,6 @@
+{
+  "name": "Fitora Gym Management",
+  "description": "Multi-tenant gym membership & subscription management software with vendor admin portal and isolated database partitioning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
